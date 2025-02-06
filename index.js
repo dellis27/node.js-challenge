@@ -56,7 +56,7 @@ function init() {
         .prompt(questions)
 
         .then ((responses)=> {
-            writeToFile('./dist/readME.md', generateMarkdown(responses));
+            writeToFile('./dist/README.md', generateMarkdown(responses));
            
         })
 }
