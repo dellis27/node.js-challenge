@@ -1,19 +1,19 @@
-# Hello
+# Hello World
 
   ## Description
-  Wold
+  This is the world
 
   ## Installation Guide
-  qwed	E
+  Download the world
 
   ## Usage Information
-  nOLAN
+  Use the world and exxploit its resources
 
   ## Contribution Guidelines
-  FEHEFWAEF
+  Recycle?
 
   ## Testing
-  FWEUJFBQAWNIEUFBNW
+  Testing
 
   ## License
   [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
